@@ -11,7 +11,7 @@
   
 #### Learn More
 
-- 📄 Check out my [CV_en](./CV_en.pdf){:target="_blank"}/[CV_ru](./CV_ru.pdf){:target="_blank"} to know more about my journey and achievements
+- 📄 Check out my [CV_en]{:target="_blank"}(./CV_en.pdf)/[CV_ru](./CV_ru.pdf){:target="_blank"} to know more about my journey and achievements
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/nurkhat-muratkan-78434b271/){:target="_blank"} and [Instagram](https://www.instagram.com/nurhat_murathan/){:target="_blank"} where I share insights and updates about my work
 
 <!--
