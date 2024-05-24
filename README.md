@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I'm Nurkhat Muratkan, specializing in software development. 🚀
+
+- 🙌 Focused on building software that brings creative ideas to life and solves real-world problems 
+- 💬 Ask me about **Backend Web Development, System Design, Cloud Computing**
+- 📄 Know about my experiences [CV]()
+
 <!--
 **nurhatmurathan/nurhatmurathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
