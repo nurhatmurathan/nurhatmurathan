@@ -7,7 +7,7 @@
 #### About Me
 
 - 🌟 Focus: Building robust and scalable software solutions
-- 💻 Specialization: Backend Web Development, System Design, Cloud Computing
+- 💻 Specialization: Backend/Frontend Web Development, System Design, Cloud Computing
   
 #### Learn More
 
